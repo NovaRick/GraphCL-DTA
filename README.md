@@ -1,2 +1,2 @@
 # GraphCL-DTA
-The code for GraphCL-DTA model. (preprint)
+The datasets and code implementation of GraphCL-DTA (preprint)
